@@ -1,4 +1,3 @@
-# Shivam Kumar Singh
 ![logo](https://wallpaperaccess.com/full/3415092.jpg)
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate frontend developer from India and I am honest, self motivated & hardworking person with positive attitude towards my career & life.
