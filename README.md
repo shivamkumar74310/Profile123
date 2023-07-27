@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/shivamkumar74310/shivam-kumar" target="blank"><img align="center" src="https://content.app-sources.com/s/7742554772753465/uploads/Images/logo_MyWeb.Site_HQ-3_with_black_border-7913135.png" alt="https://shivamkumar74310.github.io/shivam-kumar/" height="80" width="200" /></a>
+<a href="https://shivamkumar74310.github.io/Home/" target="blank"><img align="center" src="https://content.app-sources.com/s/7742554772753465/uploads/Images/logo_MyWeb.Site_HQ-3_with_black_border-7913135.png" alt="https://shivamkumar74310.github.io/shivam-kumar/" height="80" width="200" /></a>
  
 </p>
 
